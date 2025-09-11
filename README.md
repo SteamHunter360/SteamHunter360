@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Daniel Olowe
+Mechanical & Software Engineer | Aspiring Finance/Tech/Consulting Professional
 
-<!--
-**SteamHunter360/SteamHunter360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Building projects in:
+- 🚀 Quantitative Finance (trading strategies, backtesting systems)
+- 🤖 Robotics & Automation
+- 💻 Machine Learning & Data Science
+- 🧭 Business/Consulting Case Solutions
 
-Here are some ideas to get you started:
+📂 Portfolio Projects:
+- [Trading Strategy Simulator](link-to-repo)
+- [Robotics Automation System](link-to-repo)
+- [ML Model for Predictive Maintenance](link-to-repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/daniel-olowe-4a3454289/)
