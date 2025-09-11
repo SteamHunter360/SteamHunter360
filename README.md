@@ -37,5 +37,5 @@ Business case problem-solving templates for consulting prep.
 
 📫 Connect with me: 
 💼 [LinkedIn](https://www.linkedin.com/in/daniel-olowe-4a3454289/)
-📧 Email: your.email@example.com 
+📧 Email: tknation360@gmail.com OR tdolowe@hotmail.co.uk
 
