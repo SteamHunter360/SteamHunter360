@@ -1,6 +1,9 @@
 👋 Hi, I'm Daniel Olowe
 Mechanical & Software Engineer | Aspiring Finance/Tech/Consulting Professional
 
+I’m passionate about solving high-impact problems by combining **engineering**, **software development**, and **business strategy**.  
+This GitHub serves as my **portfolio hub**, showcasing projects across **quantitative finance**, **robotics & automation**, **machine learning**, and **consulting frameworks**.
+
 🎯 Building projects in:
 - 🚀 Quantitative Finance (trading strategies, backtesting systems)
 - 🤖 Robotics & Automation
