@@ -10,19 +10,32 @@ This GitHub serves as my **portfolio hub**, showcasing projects across **quantit
 - 💻 Machine Learning & Data Science
 - 🧭 Business/Consulting Case Solutions
 
+---
+
 📂 Portfolio Projects:
+
+### 💹 Finance & Quantitative Analysis
 - [Quant Strategy Simulator](https://github.com/SteamHunter360/quant-strategy-simulator)
 Backtesting engine for trading strategies in Python & C++.
 
 
+### 🤖 Robotics & Automation
 - [Robotics Automation System](https://github.com/SteamHunter360/robotics-arm-control)
 C++ control algorithms for a robotic arm with feedback precision.
 
 
+### 📊 Machine Learning & Data Science
 - [ML Model for Predictive Maintenance](https://github.com/SteamHunter360/ml-predictive-maintenance)
 Built with TensorFlow to predict equipment failures before they occur.
 
+
+### 🧭 Consulting & Strategy
 - [Case Study Frameworks](https://github.com/SteamHunter360/consulting-case-frameworks)  
 Business case problem-solving templates for consulting prep.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/daniel-olowe-4a3454289/)
+---
+
+📫 Connect with me: 
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-olowe-4a3454289/)
+📧 Email: your.email@example.com 
+
