@@ -1,4 +1,4 @@
-👋 Hi, I'm Daniel Olowe
+👋 Hi, I'm Daniel Olowe,
 Mechanical & Software Engineer | Aspiring Finance/Tech/Consulting Professional
 
 I’m passionate about solving high-impact problems by combining **engineering**, **software development**, and **business strategy**.  
