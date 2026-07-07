@@ -1,113 +1,210 @@
 # 👋 Hi, I'm Daniel Olowe
 
-## Mechanical & Software Engineer | Robotics | AI | Control Systems | Engineering Software
+# Mechanical Engineering Student | Robotics | Control Systems | Engineering Software | Machine Learning
 
-I'm passionate about solving high-impact engineering problems by combining **mechanical engineering, software development, robotics, control systems and artificial intelligence**.
+I am a UK Mechanical Engineering student building multidisciplinary engineering systems at the intersection of **mechanical engineering, robotics, control systems, signal processing, embedded systems and intelligent software**.
 
-This GitHub serves as my engineering portfolio, showcasing practical software projects across **robotics, automation, embedded systems, machine learning and engineering analysis**.
+My GitHub documents my journey towards becoming a Mechanical & Software Engineer through progressively larger engineering projects that combine rigorous engineering analysis, modern software engineering practices and quantitative validation.
+
+Every flagship project is built with an emphasis on:
+
+- ✅ Modular software architecture
+- ✅ Engineering analysis
+- ✅ Automated testing
+- ✅ Continuous Integration (GitHub Actions)
+- ✅ Technical documentation
+- ✅ Reproducible demonstrations
 
 ---
 
-## 🎯 Currently Building Projects In
+# 🎯 Engineering Interests
 
 - 🤖 Robotics & Automation
+- 🎛️ Control Systems
 - 🔌 Embedded Systems
-- ⚙️ Mechanical Engineering Software
-- 🎯 Control Systems
-- 🧠 Machine Learning & Predictive Maintenance
-- 💻 Python Engineering Applications
+- ⚙️ Mechanical Engineering
+- 📊 Signal Processing
+- 🧠 Machine Learning
+- 🏭 Predictive Maintenance
+- 💻 Engineering Software Development
 
 ---
 
-# 📂 Portfolio Projects
+# 🚀 Featured Flagship Projects
 
-## 🤖 Robotics & Automation
+## 🤖 Robotics Arm Control
 
-- **Robotics Arm Control**
-  - Forward Kinematics
-  - Inverse Kinematics
-  - Interactive Robot Control
-  - Workspace Visualisation
-  - Trajectory Planning
+A complete robotics software project demonstrating analytical robot modelling and closed-loop control.
 
-Repository:
+### Highlights
+
+- Analytical Forward Kinematics
+- Analytical Inverse Kinematics
+- Joint Space Trajectory Planning
+- PID Joint Control
+- Simulated Joint Dynamics
+- Cartesian Tracking Analysis
+- Quantitative Performance Metrics
+- Automated Testing
+- GitHub Actions Continuous Integration
+
+**Repository**
 
 https://github.com/SteamHunter360/robotics-arm-control
 
 ---
 
-## 📈 Machine Learning & Predictive Maintenance
+## 📈 Predictive Maintenance Fault Detection
 
-- **Predictive Maintenance Fault Detection**
-  - Synthetic Vibration Signal Generation
-  - FFT Analysis
-  - Automatic Fault Detection
-  - Feature Extraction
-  - Machine Learning Fault Classifier
+An end-to-end vibration-based machine learning pipeline for rotating machinery condition monitoring.
 
-Repository:
+### Highlights
+
+- Synthetic Vibration Signal Generation
+- FFT Signal Processing
+- Time & Frequency Domain Feature Engineering
+- Logistic Regression & Random Forest
+- Cross Validation
+- Automatic Model Selection
+- Model Persistence
+- Fault Inference Pipeline
+- Automated Testing
+- GitHub Actions Continuous Integration
+
+**Repository**
 
 https://github.com/SteamHunter360/predictive-maintenance-fault-detection
 
 ---
 
-## ⚙️ Mechanical Engineering Software
+# 🚧 Upcoming Flagship Projects
 
-- **Engineering Analysis Toolkit**
-  - Beam Deflection
-  - Shaft Stress Analysis
-  - Mohr's Circle
-  - Euler Buckling
-  - Interactive Engineering Toolkit
+These projects are currently in development and will become the next major additions to this portfolio.
 
-Repository:
+## 🔌 Embedded Motor Control Laboratory
 
-https://github.com/SteamHunter360/engineering-analysis-toolkit
+Planned topics include:
 
----
-
-## 🔌 Embedded Systems & Control
-
-- **Embedded Motor Control Lab**
-  - DC Motor Simulation
-  - PWM Motor Control
-  - Encoder Simulation
-  - PID Speed Controller
-
-Repository:
-
-https://github.com/SteamHunter360/embedded-motor-control-lab
+- PWM Motor Control
+- Encoder Feedback
+- Closed-Loop PID Speed Control
+- Serial Communication
+- Sensor Integration
+- Embedded C/C++
+- Python Data Logging
+- Hardware Validation
 
 ---
 
-# 🚀 Currently Learning
+## ⚙️ Engineering Analysis Toolkit
 
-- Advanced Robotics
+A reusable engineering software library covering:
+
+- Beam Deflection
+- Shaft Stress Analysis
+- Mohr's Circle
+- Euler Buckling
+- Fatigue Calculations
+- Engineering Mathematics Utilities
+- Mechanical Design Calculators
+
+---
+
+# 🛠 Technical Skills
+
+## Mechanical Engineering
+
+- Mechanical Design
+- Dynamics
+- Mechanics of Solids
+- Thermodynamics
+- Fluid Mechanics
+- Manufacturing
+- Electromechanical Systems
+
+## Robotics & Controls
+
+- Forward Kinematics
+- Inverse Kinematics
+- PID Control
+- Trajectory Planning
+- Closed-Loop Systems
+- Engineering Simulation
+
+## Machine Learning
+
+- Feature Engineering
+- Signal Processing
+- Classification
+- Cross Validation
+- Model Evaluation
+- Predictive Maintenance
+
+## Programming
+
+- Python
+- NumPy
+- pandas
+- Matplotlib
+- scikit-learn
+
+## Software Engineering
+
+- Git
+- GitHub
+- pytest
+- GitHub Actions
+- Modular Software Design
+- Continuous Integration
+
+---
+
+# 📚 Current Learning Focus
+
+Current roadmap:
+
+✅ Robotics & Control Systems
+
+✅ Predictive Maintenance & Machine Learning
+
+🚧 Embedded Systems
+
+🚧 Engineering Software Development
+
+🔜 Computer Vision
+
+🔜 Autonomous Systems
+
+---
+
+# 🎯 Career Objective
+
+My goal is to become a multidisciplinary Mechanical & Software Engineer designing intelligent engineering systems that combine:
+
+- Mechanical Engineering
+- Robotics
 - Embedded Systems
-- Computer Vision
-- Autonomous Systems
+- Control Theory
 - Artificial Intelligence
-- Engineering Software Development
+- Engineering Software
+
+I enjoy solving engineering problems by combining mathematical modelling, software development and physical system understanding.
 
 ---
 
-# 🎯 Long-Term Goal
+# 📫 Connect With Me
 
-To become an elite Mechanical & Software Engineer developing intelligent robotic, autonomous and AI-driven engineering systems that combine mechanical engineering, software engineering and control theory.
+📧 **Email**
 
----
+- tknation360@gmail.com
+- tdolowe@hotmail.co.uk
 
-# 📬 Connect With Me
+💼 **LinkedIn**
 
-📧 Email: tknation360@gmail.com
+https://www.linkedin.com/in/daniel-olowe-4a3454289/
 
-📧 Email: tdolowe@hotmail.co.uk
+🐙 **GitHub**
 
-🐙 GitHub: https://github.com/SteamHunter360
-
----
-
-📫 Connect with me: 
-💼 [LinkedIn](https://www.linkedin.com/in/daniel-olowe-4a3454289/)
+https://github.com/SteamHunter360
 
 
